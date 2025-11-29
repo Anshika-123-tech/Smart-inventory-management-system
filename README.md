@@ -107,13 +107,11 @@ The **Smart Inventory Management System Dashboard** bridges traditional inventor
 
 ---
 # Screenshot
-<img width="1880" height="922" alt="Screenshot 2025-11-20 091037" src="https://github.com/user-attachments/assets/be4650e6-0b69-4ca9-915e-9b9ebfc80721" />
-<img width="659" height="683" alt="Screenshot 2025-11-20 091019" src="https://github.com/user-attachments/assets/7c99153e-11fc-4901-a5e5-6055f7677f67" />
-<img width="1914" height="951" alt="Screenshot 2025-11-20 091123" src="https://github.com/user-attachments/assets/6633240c-d67a-405f-817d-5993630b4717" />
-<img width="1883" height="891" alt="Screenshot 2025-11-20 091107" src="https://github.com/user-attachments/assets/452f73c1-3179-48cc-9f92-6346232a5a8e" />
-<img width="1839" height="965" alt="Screenshot 2025-11-20 091052" src="https://github.com/user-attachments/assets/2a8619bc-32a9-4ee9-ae95-46adc8a0a32b" />
+<img width="1880" height="922" alt="Screenshot 2025-11-20 091037" src="https://github.com/user-attachments/assets/28c4d44d-b87c-420d-9da6-0342b16d0290" />
+<img width="659" height="683" alt="Screenshot 2025-11-20 091019" src="https://github.com/user-attachments/assets/c24b9b80-8572-443f-b77e-e738de3893de" />
+<img width="1914" height="951" alt="Screenshot 2025-11-20 091123" src="https://github.com/user-attachments/assets/85e095cd-364f-41f8-afbe-732164802e03" />
+<img width="1883" height="891" alt="Screenshot 2025-11-20 091107" src="https://github.com/user-attachments/assets/81816c98-d247-4fe9-b733-ddceedf01aa7" />
+<img width="1839" height="965" alt="Screenshot 2025-11-20 091052" src="https://github.com/user-attachments/assets/f98ce6ac-08b6-4b17-8fcd-6bfd2437b897" />
 
-# url
-https://form-vast-30387347
 
 
